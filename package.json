@@ -36,7 +36,7 @@
     "@edx/brand": "git+https://git@github.com/abstract-tech/community-theme-brand.git#consistent-deps",
     "@edx/frontend-build": "^11.0.0",
     "@edx/frontend-component-footer": "git+https://git@github.com/abstract-tech/community-theme-footer.git#consistent-deps",
-    "@edx/frontend-lib-content-components": "^1.43.0",
+    "@edx/frontend-lib-content-components": "^1.46.0",
     "@edx/frontend-platform": "^4.0.0",
     "@edx/paragon": "^20.32.2",
     "@fortawesome/fontawesome-svg-core": "1.2.28",
